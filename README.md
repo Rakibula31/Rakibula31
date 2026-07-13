@@ -1,4 +1,4 @@
 Hello 😎,  
-I'm a computer engineer @ gatech 🐝| software & hardware | Backend systems, data, fintech
+I'm a Math + CS major @ gatech 🐝| software | Backend systems, data, fintech
 
 
